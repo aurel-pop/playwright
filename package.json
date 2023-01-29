@@ -1,0 +1,21 @@
+{
+  "name": "playwright-rhsaalfeld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurel-pop/playwright-rhsaalfeld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurel-pop/playwright-rhsaalfeld/issues"
+  },
+  "homepage": "https://github.com/aurel-pop/playwright-rhsaalfeld#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.30.0"
+  }
+}
